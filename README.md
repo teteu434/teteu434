@@ -36,9 +36,9 @@ Além disso, fui **Coordenador de Marketing** da equipe de competição **CEFAST
 ### 📌 Projetos em Destaque
 
 - [**Sistema Matheus**](https://github.com/teteu434/SistemaMatheus) → Sistema CRUD de Produtos.  
-- [**DataView INSS**] → Plataforma de análise de dados para o INSS (Node.js + PostgreSQL).  
+- [**DataView INSS**](https://github.com/teteu434/DataView) → Plataforma de análise de dados para o INSS (Node.js + PostgreSQL).  
 - [**Blog do Matheus**](https://github.com/teteu434/Blog-do-Matheus) → API REST com Spring Boot para gerenciamento de posts.
-- [**pProjeto CIT**](https://github.com/teteu434/projetoCIT) → Sistema CRUD sobre escavações e projetos arqueológicos (Node.js + PostgreSQL).  
+- [**Projeto CIT**](https://github.com/teteu434/projetoCIT) → Sistema CRUD sobre escavações e projetos arqueológicos (Node.js + PostgreSQL).  
 
 ---
 
@@ -48,15 +48,17 @@ Além disso, fui **Coordenador de Marketing** da equipe de competição **CEFAST
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="200"
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=teteu434&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=teteu434&theme=tokyonight" 
   />
 
   <img 
     align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=teteu434&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    alt="Top Languages" 
+    height="200"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=teteu434&theme=tokyonight" 
   />
 </p>
+
+<br/><br/><br/><br/>
