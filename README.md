@@ -6,7 +6,7 @@ Me chamo **Matheus Henrique Costa Oliveira**, tenho 21 anos e sou de Belo Horizo
 Sou estudante de **Engenharia da Computação no CEFET-MG** e atualmente trabalho na **People4Tech** como **Desenvolvedor**.  
 Tenho experiência com **C#, .NET, Angular, Docker, PostgreSQL, Azure DevOps** e atuo também com metodologias ágeis como **Scrum**.  
 
-Participei de projetos acadêmicos e profissionais, como o **Sistema do MAtheus** (CRUD em .NET de produtos e compras) e **DataView INSS** (análise de dados com Node.js + PostgreSQL).  
+Participei de projetos acadêmicos e profissionais, como o **Sistema do Matheus** (CRUD em .NET de produtos e compras) e **DataView INSS** (análise de dados com Node.js + PostgreSQL).  
 Além disso, fui **Coordenador de Marketing** da equipe de competição **CEFAST AeroDesign**.  
 
 ---
