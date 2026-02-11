@@ -38,7 +38,8 @@ Além disso, fui **Coordenador de Marketing** da equipe de competição **CEFAST
 - [**Sistema Matheus**](https://github.com/teteu434/SistemaMatheus) → Sistema CRUD de Produtos.  
 - [**DataView INSS**](https://github.com/teteu434/DataView) → Plataforma de análise de dados para o INSS (Node.js + PostgreSQL).  
 - [**Blog do Matheus**](https://github.com/teteu434/Blog-do-Matheus) → API REST com Spring Boot para gerenciamento de posts.
-- [**Projeto CIT**](https://github.com/teteu434/projetoCIT) → Sistema CRUD sobre escavações e projetos arqueológicos (Node.js + PostgreSQL).  
+- [**Projeto CIT**](https://github.com/teteu434/projetoCIT) → Sistema CRUD sobre escavações e projetos arqueológicos (Node.js + PostgreSQL).
+- [**Mensageria Rabbit**](https://github.com/teteu434/MensageriaRabbit) → Sistema de mensageria simples com exchange fanout (.NET + Docker).
 
 ---
 
